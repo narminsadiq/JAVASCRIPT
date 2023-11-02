@@ -1,3 +1,4 @@
+
 function generation(a, b) 
 {
     if (a ===0 && b ==="m")
